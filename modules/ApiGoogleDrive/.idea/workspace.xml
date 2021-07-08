@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b3ae33d-a809-4c90-ad71-9949f69f9968" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="455728848">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.53" value="1" />
+          <entry key="project.open.time.55" value="1" />
+          <entry key="project.open.time.59" value="1" />
+          <entry key="project.open.time.65" value="1" />
+          <entry key="project.open.time.68" value="2" />
+          <entry key="project.open.time.69" value="1" />
+          <entry key="project.open.time.78" value="1" />
+          <entry key="project.open.time.85" value="1" />
+          <entry key="project.opened" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="1" />
+          <entry key="JSON" value="6" />
+          <entry key="PHP" value="28" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="15" />
+          <entry key="PHP" value="972" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.new.class">
+        <counts>
+          <entry key="PHP Class.type" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1207569033">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.96" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/../public/index.html" />
+        <option value="$PROJECT_DIR$/../public/style/css/custom_style.css" />
+        <option value="$PROJECT_DIR$/../ftp_ftps/FtpClient/MyFtpClient.php" />
+        <option value="$PROJECT_DIR$/../ftp_ftps/MyFtpClient.php" />
+        <option value="$PROJECT_DIR$/../ftp_ftps/FtpClient/FtpClient.php" />
+        <option value="$PROJECT_DIR$/../ftp_ftps/listed_files.php" />
+        <option value="$PROJECT_DIR$/../public/modules/Ftp/ftp_functions.php" />
+        <option value="$PROJECT_DIR$/../public/config.php" />
+        <option value="$PROJECT_DIR$/../public/header.php" />
+        <option value="$PROJECT_DIR$/../public/include/functions.php" />
+        <option value="$PROJECT_DIR$/../public/index.php" />
+        <option value="$PROJECT_DIR$/../public/include/MysqlConnect.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/google/auth" />
+      <path value="$PROJECT_DIR$/vendor/google/apiclient" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/google/apiclient-services" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ApiGoogleDrive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PhpstormProjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ApiGoogleDrive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PhpstormProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ApiGoogleDrive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PhpstormProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ApiGoogleDrive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PhpstormProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ApiGoogleDrive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PhpstormProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="Ftp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ApiGoogleDrive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PhpstormProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="style" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\GNassro\PhpstormProjects\public\modules" />
+      <recent name="C:\Users\GNassro\PhpstormProjects\public\include" />
+      <recent name="C:\Users\GNassro\PhpstormProjects\ApiGoogleDrive" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b3ae33d-a809-4c90-ad71-9949f69f9968" name="Default Changelist" comment="" />
+      <created>1578935350742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578935350742</updated>
+      <workItem from="1578935362124" duration="1709000" />
+      <workItem from="1581602524446" duration="2241000" />
+      <workItem from="1581613201901" duration="1317000" />
+      <workItem from="1582107385666" duration="7935000" />
+      <workItem from="1582146660080" duration="7970000" />
+      <workItem from="1582203598099" duration="6195000" />
+      <workItem from="1582417252636" duration="1211000" />
+      <workItem from="1582476989103" duration="768000" />
+      <workItem from="1582733488155" duration="596000" />
+      <workItem from="1582845865578" duration="1761000" />
+      <workItem from="1582993829646" duration="1193000" />
+      <workItem from="1583013012712" duration="2556000" />
+      <workItem from="1583095914778" duration="9212000" />
+      <workItem from="1583151791268" duration="806000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="45470000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1709531" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.1816694" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15128593" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.1816694" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../public/modules/ApiGoogleDrive/composer.json" />
+    <entry file="file://$PROJECT_DIR$/../public/modules/ApiGoogleDrive/composer.lock" />
+    <entry file="file://$PROJECT_DIR$/../public/modules/ApiGoogleDrive/vendor/composer/autoload_real.php" />
+    <entry file="file://$PROJECT_DIR$/../public/modules/ApiGoogleDrive/vendor/autoload.php" />
+    <entry file="file://$PROJECT_DIR$/../public/modules/ApiGoogleDrive/token.json" />
+    <entry file="file://$PROJECT_DIR$/../public/modules/ApiGoogleDrive/credentials.json" />
+    <entry file="file://$PROJECT_DIR$/../public/modules/ApiGoogleDrive/test/index.php" />
+    <entry file="file://$PROJECT_DIR$/../public/modules/ApiGoogleDrive/test/utils.php" />
+    <entry file="file://$PROJECT_DIR$/../public/modules/ApiGoogleDrive/test.php" />
+    <entry file="file://$PROJECT_DIR$/../ftp_ftps/FtpClient/MyFtpClient.php" />
+    <entry file="file://$PROJECT_DIR$/../ftp_ftps/MyFtpClient.php" />
+    <entry file="file://$PROJECT_DIR$/../ftp_ftps/listed_files.php" />
+    <entry file="file://$PROJECT_DIR$/../ftp_ftps/ftp_class_pure.php" />
+    <entry file="file://$PROJECT_DIR$/../ftp_ftps/ftp_class.php" />
+    <entry file="file://$PROJECT_DIR$/../public/modules/Ftp/ftp.class.php" />
+    <entry file="file://$PROJECT_DIR$/../ftp_ftps/FtpClient/FtpClient.php" />
+    <entry file="file://$PROJECT_DIR$/../public/include/functions.php" />
+    <entry file="file://$PROJECT_DIR$/../public/include/MysqlConnect.php" />
+    <entry file="file://$PROJECT_DIR$/../public/index.php" />
+    <entry file="file://$PROJECT_DIR$/../public/style/css/custom_style.css" />
+    <entry file="file://$PROJECT_DIR$/../public/modules/Ftp/Ftp.php" />
+    <entry file="file://$PROJECT_DIR$/../public/modules/Ftp/ftp_functions.php" />
+    <entry file="file://$PROJECT_DIR$/../public/header.php" />
+    <entry file="file://$PROJECT_DIR$/../public/include/config.php" />
+  </component>
+</project>
